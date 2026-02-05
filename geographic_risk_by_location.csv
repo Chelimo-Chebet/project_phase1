@@ -1,0 +1,109 @@
+location,crashes,avg_fatalities_per_crash,avg_damage_severity,geographic_risk_score
+"dallas-addison airport, tx (ads/kads)",4,5.0,3.0,68.29268292682926
+moskva-sheremetyevo airport (svo),6,13.666666666666666,2.3333333333333335,66.66666666666667
+manda bay-camp simba air base,4,1.0,3.0,53.65853658536586
+"sayaxché, petén",4,1.0,3.0,53.65853658536586
+al jufra airbase,4,0.5,3.0,51.829268292682926
+ilaga airport (ila),4,0.5,3.0,51.829268292682926
+within jesús maría semprún,4,0.0,3.0,50.0
+western venezuela,4,0.0,3.0,50.0
+khartoum airport (krt),4,0.0,3.0,50.0
+"jonesboro municipal airport, ar (jbr)",4,0.0,3.0,50.0
+"eufaula-weedon field, al (euf/keuf)",4,0.0,3.0,50.0
+"el chico, retalhuleu",4,0.0,3.0,50.0
+within venezuela,4,0.0,3.0,50.0
+manila-ninoy aquino international airport (mnl),4,4.0,2.5,39.63414634146341
+"houston-william p. hobby airport, tx (hou)",14,0.0,2.7142857142857144,35.71428571428572
+"maraú-barra grande airport, ba (siri)",4,2.5,2.5,34.14634146341463
+tripoli-mitiga international airport (mji),10,0.0,2.6666666666666665,33.33333333333333
+kyiv-gostomel airport (gml),10,0.0,2.6,30.000000000000004
+"belo horizonte/pampulha - carlos drummond de andrade airport, mg (plu)",4,0.5,2.5,26.82926829268293
+gao airport (gaq),4,0.0,2.5,25.0
+napoli-capodichino airport (nap),4,0.0,2.5,25.0
+new fangak airstrip,4,0.0,2.5,25.0
+lima-jorge chávez international airport (lim),4,0.0,2.5,25.0
+mogadishu aden adde international airport (mgq),10,0.0,2.5,25.0
+port vila-bauerfield airport (vli),6,0.0,2.3333333333333335,16.666666666666675
+lagos-murtala muhammed international airport (los),6,0.0,2.3333333333333335,16.666666666666675
+"nashville-john c. tune airport, tn (kjwn)",24,0.0,2.0833333333333335,4.166666666666674
+odessa-central airport (ods),4,0.0,2.0,0.0
+"orlando international airport, fl (mco)",4,0.0,2.0,0.0
+panama city albrook-marcos a. gelabert international airport (pac),4,0.0,2.0,0.0
+paris-charles de gaulle airport (cdg),6,0.0,2.0,0.0
+"penticton airport, bc (yyf)",4,0.0,2.0,0.0
+"north bay airport, on (yyb)",4,0.0,2.0,0.0
+"philadelphia international airport, pa (phl/kphl)",4,0.0,2.0,0.0
+port moresby-jacksons international airport (pom),4,0.0,2.0,0.0
+"newark-liberty international airport, nj (ewr)",8,0.0,2.0,0.0
+"new york-la guardia airport, ny (lga)",4,0.0,2.0,0.0
+"new york-john f. kennedy international airport, ny (jfk/kjfk)",4,0.0,2.0,0.0
+"new york-john f. kennedy international airport, ny (jfk)",10,0.0,2.0,0.0
+"dallas/fort worth international airport, tx (dfw/kdfw)",10,0.0,2.0,0.0
+"prince albert airport, sk (ypa)",4,0.0,2.0,0.0
+saint petersburg-pulkovo airport (led),4,0.0,2.0,0.0
+"aspen-pitkin county airport, co (ase/kase)",4,0.0,2.0,0.0
+"winnipeg-james armstrong richardson international airport, mb (ywg)",4,0.0,2.0,0.0
+athens-elefthérios venizélos international airport (ath/lgav),4,0.0,2.0,0.0
+vientiane-wattay airport (vte),4,0.0,2.0,0.0
+"vancouver international airport, bc (yvr/cyvr)",14,0.0,2.0,0.0
+"toronto–lester b. pearson international airport, ontario (yyz)",4,0.0,2.0,0.0
+toluca-licenciado adolfo lópez mateos international airport (tlc),4,0.0,2.0,0.0
+tel aviv-ben gurion international airport (tlv/llbg),6,0.0,2.0,0.0
+são tomé island airport (tms/fpst),6,0.0,2.0,0.0
+"sheridan airport, wy (shr)",4,0.0,2.0,0.0
+seoul-gimpo (kimpo) international airport (sel),4,0.0,2.0,0.0
+"atlanta hartsfield-jackson international airport, ga (atl/katl)",8,0.0,2.0,0.0
+san juan-fernando luis ribas dominicci airport (sig),4,0.0,2.0,0.0
+"san francisco international airport, ca (sfo)",4,0.0,2.0,0.0
+san felipe airport,4,0.0,2.0,0.0
+"san antonio international airport, tx (sat)",8,0.0,2.0,0.0
+"salt lake city international airport, ut (slc)",6,0.0,2.0,0.0
+"rouyn airport, qc (yuy)",4,0.0,2.0,0.0
+"morristown municipal airport, nj (mmu)",4,0.0,2.0,0.0
+nassau-lynden pindling international airport (nas),4,0.0,2.0,0.0
+nairobi-jomo kenyatta international airport (nbo),4,0.0,2.0,0.0
+"honolulu-daniel k. inouye international airport, hi (hnl)",4,0.0,2.0,0.0
+heraklion-n. kazantzakis airport (her/lgir),4,0.0,2.0,0.0
+"hawthorne airport, ca (hhr)",4,0.0,2.0,0.0
+"halifax-stanfield international airport, ns (yhz/cyhz)",4,0.0,2.0,0.0
+"ganges harbor airport, bc (ygg)",4,0.0,2.0,0.0
+frankfurt international airport (fra/eddf),12,0.0,2.0,0.0
+"fort lauderdale-executive airport, fl (fxe)",6,0.0,2.0,0.0
+"fargo-hector international airport, nd (far)",4,0.0,2.0,0.0
+exeter airport (ext/egte),4,0.0,2.0,0.0
+"eugene airport, or (eug)",4,0.0,2.0,0.0
+"charlotte-douglas international airport, nc (clt/kclt)",10,0.0,2.0,0.0
+eteringbang airport (syet),4,0.0,2.0,0.0
+"chicago-o'hare international airport, il (ord/kord)",28,0.0,2.0,0.0
+"edmonton international airport, ab (yeg)",4,0.0,2.0,0.0
+"detroit-coleman a. young international airport, mi (det)",4,0.0,2.0,0.0
+black point airstrip (myeb),4,0.0,2.0,0.0
+istanbul-atatürk international airport (ist),8,0.0,2.0,0.0
+jeddah-king abdulaziz international airport (jed),4,0.0,2.0,0.0
+malé-velana international airport (mle),4,0.0,2.0,0.0
+bahía solano-josé celestino mutis airport (bsc),4,0.0,2.0,0.0
+"denver international airport, co (den/kden)",16,0.0,2.0,0.0
+montserrat-john a. osborne airport (mni),4,0.0,2.0,0.0
+"montreal-pierre elliott trudeau international airport, qc (yul)",6,0.0,2.0,0.0
+mexico city-benito juárez international airport (mex),6,0.0,2.0,0.0
+"baltimore/washington international thurgood marshall airport, md (bwi)",4,0.0,2.0,0.0
+madrid-barajas adolfo suárez airport (mad),4,0.0,2.0,0.0
+berlin-schönefeld airport (sxf/eddb),4,0.0,2.0,0.0
+"los angeles international airport, ca (lax)",6,0.0,2.0,0.0
+london-stansted airport (stn),4,0.0,2.0,0.0
+london-heathrow airport (lhr),4,0.0,2.0,0.0
+"las vegas-mccarran international airport, nv (las)",6,0.0,2.0,0.0
+kolwezi airport (kwz),4,0.0,2.0,0.0
+juba airport (jub),4,0.0,2.0,0.0
+aberdeen international airport (abz/egpd),4,0.0,2.0,0.0
+amsterdam-schiphol international airport (ams/eham),8,0.0,,
+budapest ferenc liszt international airport (bud/lhbp),4,0.0,,
+"fort lauderdale, florida",4,0.0,,
+kenyam airstrip,4,0.0,,
+"miami, florida",6,0.0,,
+nassau-lynden pindling international airport (nas/mynn),4,0.0,,
+"near denver, co",4,0.0,,
+"new orleans, louisiana",4,0.0,,
+paris-charles de gaulle airport (cdg/lfpg),4,0.0,,
+"phoenix-sky harbor international airport, az (phx/kphx)",4,0.0,,
+"seattle/tacoma international airport, wa (sea/ksea)",4,0.0,,
